@@ -1,0 +1,9 @@
+#catatankaki {
+    background-color: rgb(212, 185, 237);
+}
+ /* hashtag buat kasih style ke id tapi kalai .navbar itu lebih buat ke class */
+
+.kotak1 {
+    background-color: aquamarine;
+    height: 50px;
+}
